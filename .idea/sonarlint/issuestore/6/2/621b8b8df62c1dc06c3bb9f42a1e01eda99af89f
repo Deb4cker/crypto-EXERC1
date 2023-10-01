@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìºéÚ
+x
+java:S1450	"cRemove the "confirmPasswordLabel" field and declare it as a local variable in the relevant methods.(×ü [
+g
+java:S3252"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(ÑÓŸƒûÿÿÿÿ
+E
+java:S1874"/Remove this use of "getText"; it is deprecated.(þ¹à«
+U
+java:S11611":Add the "@Override" annotation above this method signature(¬É¼Áüÿÿÿÿ

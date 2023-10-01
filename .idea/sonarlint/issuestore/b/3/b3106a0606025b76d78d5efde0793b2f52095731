@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìºéÚ
+d
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öþÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature(×¬ò‡
+U
+java:S1161":Add the "@Override" annotation above this method signature(¬É¼Áüÿÿÿÿ

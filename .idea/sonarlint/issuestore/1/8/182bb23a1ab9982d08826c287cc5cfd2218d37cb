@@ -1,0 +1,12 @@
+
+Š
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Ó¾úó8óüØÆ®1
+
+java:S1319O"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ã¶£²üÿÿÿÿ8óüØÆ®1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜€S8õüØÆ®1
+>
+java:S1170"!Make this final field static too.(Ü¯ÅÃ8†ıØÆ®1
+A
+java:S1168&"$Return an empty map instead of null.(¥¹ï8ıØÆ®1
+A
+java:S1168["$Return an empty map instead of null.(¥¹ï8”ıØÆ®1

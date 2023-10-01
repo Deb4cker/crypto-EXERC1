@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="exemploCripto:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/exemploCripto_jar</output-path>
+    <root id="archive" name="exemploCripto.jar">
+      <element id="module-output" name="exemploCripto" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/BC/bcpkix-jdk18on-176.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/BC/bcutil-jdk18on-176.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/BC/bctls-jdk18on-176.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/BC/jce-jdk13-176.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/BC/bctest-jdk18on-176.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/BC/bcjmail-jdk18on-176.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/BC/bcpg-jdk18on-176.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/BC/bcprov-jdk18on-176.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/BC/bc-noncert-1.0.2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/BC/bcmail-jdk18on-176.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/BC/bcprov-debug-jdk18on-176.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/BC/bc-noncert-debug-1.0.2.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
